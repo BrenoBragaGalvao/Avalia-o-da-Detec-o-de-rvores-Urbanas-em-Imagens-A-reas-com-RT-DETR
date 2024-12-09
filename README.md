@@ -1,0 +1,1 @@
+# Avalia-o-da-Detec-o-de-rvores-Urbanas-em-Imagens-A-reas-com-RT-DETR
